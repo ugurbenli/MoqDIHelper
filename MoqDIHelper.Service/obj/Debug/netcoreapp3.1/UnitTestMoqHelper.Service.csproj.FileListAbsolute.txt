@@ -1,0 +1,7 @@
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.Service\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.Service.deps.json
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.Service\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.Service.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.Service\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.Service.pdb
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.Service\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.Service.AssemblyInfoInputs.cache
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.Service\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.Service.AssemblyInfo.cs
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.Service\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.Service.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.Service\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.Service.pdb

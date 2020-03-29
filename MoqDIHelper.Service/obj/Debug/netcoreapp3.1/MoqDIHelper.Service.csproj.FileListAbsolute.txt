@@ -1,0 +1,15 @@
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\MoqDIHelper.Service\bin\Debug\netcoreapp3.1\MoqDIHelper.Service.deps.json
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\MoqDIHelper.Service\bin\Debug\netcoreapp3.1\MoqDIHelper.Service.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\MoqDIHelper.Service\bin\Debug\netcoreapp3.1\MoqDIHelper.Service.pdb
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\MoqDIHelper.Service\obj\Debug\netcoreapp3.1\MoqDIHelper.Service.AssemblyInfoInputs.cache
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\MoqDIHelper.Service\obj\Debug\netcoreapp3.1\MoqDIHelper.Service.AssemblyInfo.cs
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\MoqDIHelper.Service\obj\Debug\netcoreapp3.1\MoqDIHelper.Service.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\MoqDIHelper.Service\obj\Debug\netcoreapp3.1\MoqDIHelper.Service.pdb
+C:\Users\Kafein\Source\Repos\MoqDIHelper\MoqDIHelper.Service\bin\Debug\netcoreapp3.1\MoqDIHelper.Service.deps.json
+C:\Users\Kafein\Source\Repos\MoqDIHelper\MoqDIHelper.Service\bin\Debug\netcoreapp3.1\MoqDIHelper.Service.dll
+C:\Users\Kafein\Source\Repos\MoqDIHelper\MoqDIHelper.Service\bin\Debug\netcoreapp3.1\MoqDIHelper.Service.pdb
+C:\Users\Kafein\Source\Repos\MoqDIHelper\MoqDIHelper.Service\obj\Debug\netcoreapp3.1\MoqDIHelper.Service.csprojAssemblyReference.cache
+C:\Users\Kafein\Source\Repos\MoqDIHelper\MoqDIHelper.Service\obj\Debug\netcoreapp3.1\MoqDIHelper.Service.AssemblyInfoInputs.cache
+C:\Users\Kafein\Source\Repos\MoqDIHelper\MoqDIHelper.Service\obj\Debug\netcoreapp3.1\MoqDIHelper.Service.AssemblyInfo.cs
+C:\Users\Kafein\Source\Repos\MoqDIHelper\MoqDIHelper.Service\obj\Debug\netcoreapp3.1\MoqDIHelper.Service.dll
+C:\Users\Kafein\Source\Repos\MoqDIHelper\MoqDIHelper.Service\obj\Debug\netcoreapp3.1\MoqDIHelper.Service.pdb

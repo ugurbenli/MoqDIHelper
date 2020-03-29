@@ -1,0 +1,17 @@
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMockHelper.UI.exe
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMockHelper.UI.deps.json
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMockHelper.UI.runtimeconfig.json
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMockHelper.UI.runtimeconfig.dev.json
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMockHelper.UI.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMockHelper.UI.pdb
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMockHelper.UI.csprojAssemblyReference.cache
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMockHelper.UI.AssemblyInfoInputs.cache
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMockHelper.UI.AssemblyInfo.cs
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMockHelper.UI.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMockHelper.UI.pdb
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMockHelper.UI.genruntimeconfig.cache
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMockHelper.Service.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMockHelper.Service.pdb
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMockHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMockHelper.UI.csproj.CopyComplete

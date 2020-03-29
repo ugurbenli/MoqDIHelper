@@ -1,0 +1,17 @@
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.exe
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.deps.json
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.runtimeconfig.json
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.runtimeconfig.dev.json
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.pdb
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.Service.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\bin\Debug\netcoreapp3.1\UnitTestMoqHelper.Service.pdb
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.csprojAssemblyReference.cache
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.AssemblyInfoInputs.cache
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.AssemblyInfo.cs
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.csproj.CopyComplete
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.dll
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.pdb
+C:\Users\Kafein\Source\Repos\UnitTestMockHelper\UnitTestMoqHelper.UI\obj\Debug\netcoreapp3.1\UnitTestMoqHelper.UI.genruntimeconfig.cache
