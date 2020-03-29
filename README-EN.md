@@ -1,3 +1,5 @@
+# Moq DI Helper
+
 <h3>Project Purpose</h3>
 
 <p>The service helper class sample project, written for use in the <b>Moq</b> library, one of the <b>Mock</b> libraries for Unit Test, allows the Dependency Injection (DI) structure to work in this library. This class ensures that services in the <b>Moq</b> library are kept and managed in the Dependency Injection structure, just like Di libraries, Castler Windsor, Ninject, etc.</p>
